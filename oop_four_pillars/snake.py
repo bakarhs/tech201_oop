@@ -12,4 +12,4 @@ class Snake(Reptile):
         print("Do I say it smells or tastes nice")
 
 sidney = Snake()
-# sidney.seek_heat()
+sidney.seek_heat()
